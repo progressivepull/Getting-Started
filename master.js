@@ -32,6 +32,7 @@ $( document ).ready(function() {
         <ul class="list-unstyled d-flex">
             <li class="ms-3"><a class="navbar-brand" href="index.html"><img src="lib/pull/dist/svg/home.svg" width="30" height="30" class="d-inline-block align-top" alt=""><span class="nav-text">Progressive Pull</span></a></li>
             <li class="ms-3"><a class="navbar-brand" href="contact.html"><span class="nav-text">Contact</span></a></li>
+            <li class="ms-3"><a class="navbar-brand" href="downloads.html"><span class="nav-text">Downloads</span></a></li>
             <li class="ms-3"><a class="navbar-brand" href="about.html"><span class="nav-text">About</span></a></li>
         </ul>
      </nav>
