@@ -39,7 +39,7 @@ git config --list
 
 Change the Username and Email Address when commiting code to the GitHub Repositories
 ```cmd
-git config user.email "coconutchitchat@gmail.com"
+git config user.email "progressivepull@gmail.com"
 
 git config user.name "John Smith"
 ```
