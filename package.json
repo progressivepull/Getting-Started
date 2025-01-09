@@ -1,0 +1,17 @@
+{
+  "name": "getting-started",
+  "version": "1.0.0",
+  "description": "This is our official Progressive Pull web page, and you can click on the link below to see all the exciting stuff.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}
