@@ -6,7 +6,6 @@ $( document ).ready(function() {
             <div class="container">
                 <ul class="list-unstyled d-flex social-network">
                     <li class="ms-3"><p  class=" footer-text text-center">2025 Progressive Pull, Inc &copy; </p></li>
-                    <li class="ms-3"><a class="link-dark" href="https://www.reddit.com/user/ZucchiniRelevant4383/"><img class="website-social-network" src="lib/pull/dist/svg/reddit.svg" alt="Reddit" width="30" height="30" ></a></li>
                     <li class="ms-3"><a class="link-dark" href="https://bsky.app/profile/progressivepull.bsky.social"><img class="website-social-network" src="lib/pull/dist/svg/bluesky.svg" alt="Blue Sky" width="30" height="30" ></a></li>
                     <li class="ms-3"><a class="link-dark" href="https://www.tumblr.com/progressivepull"><img class="website-social-network" src="lib/pull/dist/svg/tumblr.svg" alt="Tumblr" width="30" height="30" ></a></li>
                     <li class="ms-3"><a class="link-dark" href="https://substack.com/@progressivepull"><img class="website-social-network" src="lib/pull/dist/svg/substack.svg" alt="Substack" width="30" height="30" ></a></li>
