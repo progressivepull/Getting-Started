@@ -17,7 +17,7 @@ $( document ).ready(function() {
                     <li class="ms-3"><a class="link-dark" href="https://www.youtube.com/@progressivepull"><img class="website-social-network" src="lib/pull/dist/svg/youtube.svg" alt="YouTube" width="30" height="30" ></a></li>
                     <li class="ms-3"><a class="link-dark" href="https://github.com/progressivepull"><img class="website-social-network" src="lib/pull/dist/svg/github.svg" alt="GitHub" width="30" height="30" ></a></li>
                     <li class="ms-3"><a class="link-dark" href="contact.html"><img class="website-social-network" src="lib/pull/dist/svg/email.svg" alt="Email" width="30" height="30" ></a></li>
-                    <li class="ms-3"><a class="link-dark" href="https://www.tiktok.com/@user124992408"><img class="website-social-network" src="lib/pull/dist/svg/tiktok.svg" alt="TikTok" width="30" height="30" ></a></li>
+                    <li class="ms-3"><a class="link-dark" href="https://www.tiktok.com/@progressivepull"><img class="website-social-network" src="lib/pull/dist/svg/tiktok.svg" alt="TikTok" width="30" height="30" ></a></li>
                     <li class="ms-3"><a class="link-dark" href="https://github.com/progressivepull/Resources"><img class="website-social-network" src="lib/pull/dist/svg/resources-folder.svg" alt="Resources Folder" width="30" height="30" ></a></li>
                 </ul>
             </div>
