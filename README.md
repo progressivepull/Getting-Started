@@ -37,11 +37,3 @@ git config user.email "progressivepull@gmail.com"
 
 git config user.name "John Smith"
 ```
-
-
-
-```
-# [Context](./README.md)
-
-write a markdown tutorial using Python for
-```
