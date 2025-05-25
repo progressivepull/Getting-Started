@@ -1,3 +1,30 @@
+body {
+    font-family: cursive;
+    font-size: large;
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+}
+
+.article-section {
+    margin-bottom: 40px;
+}
+.article-section h2 {
+    margin-top: 40px;
+    color: #00ccff;
+    border-bottom: 2px solid #00ccff;
+    padding-bottom: 10px;
+}
+.article-section p {
+    line-height: 1.6;
+}
+
+.article-section p {
+    text-align: justify;
+    margin-bottom: 20px; /* Adjusts space between paragraphs */
+}
+
 .footer{
     background-color: cadetblue;
 
@@ -8,17 +35,20 @@
     margin-right: 100px;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.image-banner{
+.banner-div{
     background-color: cadetblue;
     margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
 }
+
+.banner-images{
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+
+}
+
+
 
 .header-text{
     color:forestgreen;

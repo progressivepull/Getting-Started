@@ -30,6 +30,7 @@ $( document ).ready(function() {
     <nav class="navbar navbar-light bg-light">
         <ul class="list-unstyled d-flex">
             <li class="ms-3"><a class="navbar-brand" href="index.html"><img src="lib/pull/dist/svg/home.svg" width="30" height="30" class="d-inline-block align-top" alt=""><span class="nav-text">Progressive Pull</span></a></li>
+            <li class="ms-3"><a class="navbar-brand" href="podcasts.html"><span class="nav-text">Podcasts</span></a></li>
             <li class="ms-3"><a class="navbar-brand" href="contact.html"><span class="nav-text">Contact</span></a></li>
             <li class="ms-3"><a class="navbar-brand" href="downloads.html"><span class="nav-text">Downloads</span></a></li>
             <li class="ms-3"><a class="navbar-brand" href="about.html"><span class="nav-text">About</span></a></li>
@@ -40,8 +41,8 @@ $( document ).ready(function() {
     $('.pp-navigation').html(navigation);
 
     let banner = `
-        <div class="image-banner" >
-            <img class="center " src="lib/pull/dist/images/Banner.png" alt="Italian Trulli" width="600" height="110">
+        <div class="banner-div" >
+            <img class="banner-images" src="lib/pull/dist/images/PP_BANDER.png" alt="PROGRESSIVE PULL BANDER" width="1000" height="160">
         </div>
     `;
 
