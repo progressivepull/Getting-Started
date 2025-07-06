@@ -3,6 +3,36 @@ It provides crucial information about all the repositories and maintains a homep
 
 <img src="https://github.com/progressivepull/Resources/blob/main/Graphics/progressive-pull-banner.png" alt="Progressive Pull Banner" width="100%" >
 
+# Pinokio 
+🧠 Pinokio AI Browser is an open-source platform designed to make working with AI applications incredibly simple and accessible—even for those without deep technical expertise. Here's what makes it stand out:
+
+## 🌐 What Is Pinokio?
+* **AI App Browser:** Pinokio acts like a browser, but instead of surfing the web, you're browsing and launching AI apps.
+
+* **One-Click Installation:** You can install and run AI models and tools (like image generators, chatbots, etc.) with a single click—no need to manually install dependencies or configure environments.
+
+* **Local Execution:** Everything runs on your local machine, giving you more control over privacy and performance.
+
+* **Script Library:** It includes a growing library of one-click scripts for popular AI tools and workflows, making it easy to experiment without coding.
+
+## 🛠️ Key Features
+* **No Terminal Needed:** You don’t need to use the command line—Pinokio handles all the backend setup for you.
+
+* **Cross-Platform:** Works on Windows, macOS, and Linux.
+
+* **Discover Catalog:** Built-in catalog to explore and install AI apps directly from the interface.
+
+* **Automation:** You can automate workflows and run server-based applications locally.
+
+## 🎯 Who Is It For?
+* *AI Enthusiasts:** Great for exploring new models and tools without setup headaches.
+
+* *Developers:** Useful for testing and managing local AI environments.
+
+* *Non-Coders:** Ideal for creatives or learners who want to use AI tools without diving into code.
+
+### [Pinokio Official Site](https://pinokio.co/)
+
 # Progressive Pull Official 
 
 This is our official Progressive Pull web page, and you can click on the link below to see all the exciting stuff.
