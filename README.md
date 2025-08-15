@@ -59,49 +59,6 @@ It provides crucial information about all the repositories and maintains a homep
 
 ### [Hugging Face Official Site](https://huggingface.co/)
 
-# Official Google Cloud Resources
-
-Vertex AI Documentation
-Comprehensive guide to all Vertex AI components.
-https://cloud.google.com/vertex-ai/docs
-Vertex AI Overview
-High-level introduction to capabilities and use cases.
-https://cloud.google.com/vertex-ai
-Google Cloud Skills Boost (formerly Qwiklabs)
-Interactive labs and quests with real GCP environments.
-Vertex AI: Qwik Start
-Deploy ML Models with Vertex AI
-https://www.cloudskillsboost.google/
-Vertex AI Codelabs
-Hands-on tutorials for training, deploying, and managing ML models.
-https://codelabs.developers.google.com/?cat=Vertex%20AI
-Courses and Training
-
-# Machine Learning on Google Cloud Specialization (Coursera)
-A multi-course program that covers ML on GCP, including Vertex AI.
-MLOps with Vertex AI (Coursera)
-Focused on productionalizing ML workflows with Vertex AI.
-Intro to Vertex AI – YouTube Series by Google Cloud Tech
-Bite-sized video series introducing key concepts and use cases.
-Pluralsight – Google Cloud Vertex AI (Subscription required)
-Structured pathway for ML engineers and developers.
-Specialized Topics & Blogs
-
-# Vertex AI Feature Store Tutorial
-https://cloud.google.com/vertex-ai/docs/featurestore
-Learn how to manage features for ML models in production.
-MLOps with Vertex AI Pipelines
-https://cloud.google.com/vertex-ai/docs/pipelines
-Learn how to build reproducible and automated workflows.
-Google Cloud Blog – Vertex AI Articles
-https://cloud.google.com/blog/products/ai-machine-learning
-Stay current with announcements, tutorials, and use cases.
-🏅 Certifications (Optional but Valuable)
-
-# Professional Machine Learning Engineer Certification
-Validate your skills in designing, building, and deploying ML models using Google Cloud.
-https://cloud.google.com/certification/machine-learning-engineer
-
 # Progressive Pull Official 
 
 This is our official Progressive Pull web page, and you can click on the link below to see all the exciting stuff.
