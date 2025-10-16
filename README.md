@@ -63,7 +63,7 @@ It provides crucial information about all the repositories and maintains a homep
 
 This is our official Progressive Pull web page, and you can click on the link below to see all the exciting stuff.
 
-<a href="https://progressivepull.github.io/Data-Structures-and-Algorithms/">Data Structures and Algorithms Official Website</a>
+<a href="https://progressivepull.github.io/Getting-Started/">Progressive Pull Official Website</a>
 
 # YouTube PodCasts
 
