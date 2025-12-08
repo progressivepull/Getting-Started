@@ -82,4 +82,5 @@ In the [Resources Wiki](https://github.com/progressivepull/Resources/wiki) I hav
 
 # Tutorial
 * [Git](./Git.md)
+* [AI Study Guide](./Study_guide.md)
 
