@@ -83,4 +83,5 @@ In the [Resources Wiki](https://github.com/progressivepull/Resources/wiki) I hav
 # Tutorial
 * [Git](./Git.md)
 * [AI Study Guide](./Study_guide.md)
+* [Installation Guide for Anaconda Environment](./Install_for_Anaconda_Environment.md)
 
