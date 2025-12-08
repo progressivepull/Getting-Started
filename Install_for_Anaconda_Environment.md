@@ -5,8 +5,6 @@ This guide explains how to install **Seaborn** into the Anaconda environment loc
 ```
 D:\Users\pinkt\anaconda3\envs\myenv
 ```
-
-
 ---
 
 ## Step 1: Activate the Environment
@@ -59,24 +57,12 @@ You can later recreate the environment with:
 conda env create -f environment.yml
 ```
 
-
 ---
 
 ✨ Save the above text into a file named `seaborn_installation.md`.  
 Would you like me to also create a **ready-to-download `.md` file card** so you don’t have to copy-paste?
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+# [README](https://github.com/progressivepull/Getting-Started/blob/main/README.md)
 
 
