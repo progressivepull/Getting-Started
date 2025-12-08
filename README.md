@@ -80,5 +80,6 @@ This is our official Progressive Pull web page, and you can click on the link be
 In the [Resources Wiki](https://github.com/progressivepull/Resources/wiki) I have a listing of all the different videos I've created.
 
 
-
+# Tutorial
+* [Git](./Git.md)
 
