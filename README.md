@@ -75,6 +75,19 @@ This is our official Progressive Pull web page, and you can click on the link be
 
 In the [Resources Wiki](https://github.com/progressivepull/Resources/wiki) I have a listing of all the different videos I've created.
 
+## Convert Mirosoft Word Documents to Markdown
+
+* [Pandoc a Universal Document Converter](https://pandoc.org/)
+* [How to Convert a Word Document to Markdown for Free using Pandoc](https://www.youtube.com/watch?v=HPSK7q13-40)
+* [Download Software](https://github.com/jgm/pandoc)
+
+That command is a compact little powerhouse, and each piece plays a
+specific role. Breaking it down makes the whole thing feel much more
+intuitive.
+
+``` bash
+pandoc -t gfm --extract-media . "fan guide.docx" -o main.md
+```
 
 # Tutorial
 * [Git](./Git.md)
