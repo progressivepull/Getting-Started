@@ -3,6 +3,8 @@ It provides crucial information about all the repositories and maintains a homep
 
 <img src="https://github.com/progressivepull/Resources/blob/main/Graphics/progressive-pull-banner.png" alt="Progressive Pull Banner" width="100%" >
 
+https://github.com/browntruck246
+
 # Pinokio 
 🧠 Pinokio AI Browser is an open-source platform designed to make working with AI applications incredibly simple and accessible—even for those without deep technical expertise. Here's what makes it stand out:
 
