@@ -5,6 +5,22 @@ It provides crucial information about all the repositories and maintains a homep
 
 https://github.com/browntruck246
 
+# Progressive Pull Official 
+
+This is our official Progressive Pull web page, and you can click on the link below to see all the exciting stuff.
+
+<a href="https://progressivepull.github.io/Getting-Started/">Progressive Pull Official Website</a>
+
+# YouTube PodCasts
+
+**Yes, hello. I operate three web platforms, each supporting a specialized podcast series designed for the forward-thinking audience of tomorrow.**
+
+* **Steps**: Here, I dive into detailed processes, from constructing a website to developing microservices or demystifying Docker. Each episode meticulously breaks down these technical steps, offering deep insights for budding developers.
+
+**Listeners can explore each podcast and choose what resonates with them, shaping their journey through the evolving digital landscape.**
+
+In the [Resources Wiki](https://github.com/progressivepull/Resources/wiki) I have a listing of all the different videos I've created.
+
 # Pinokio 
 🧠 Pinokio AI Browser is an open-source platform designed to make working with AI applications incredibly simple and accessible—even for those without deep technical expertise. Here's what makes it stand out:
 
@@ -60,22 +76,6 @@ https://github.com/browntruck246
 * **Educators** use it to teach ML with hands-on tools.
 
 ### [Hugging Face Official Site](https://huggingface.co/)
-
-# Progressive Pull Official 
-
-This is our official Progressive Pull web page, and you can click on the link below to see all the exciting stuff.
-
-<a href="https://progressivepull.github.io/Getting-Started/">Progressive Pull Official Website</a>
-
-# YouTube PodCasts
-
-**Yes, hello. I operate three web platforms, each supporting a specialized podcast series designed for the forward-thinking audience of tomorrow.**
-
-* **Steps**: Here, I dive into detailed processes, from constructing a website to developing microservices or demystifying Docker. Each episode meticulously breaks down these technical steps, offering deep insights for budding developers.
-
-**Listeners can explore each podcast and choose what resonates with them, shaping their journey through the evolving digital landscape.**
-
-In the [Resources Wiki](https://github.com/progressivepull/Resources/wiki) I have a listing of all the different videos I've created.
 
 ## Convert Mirosoft Word Documents to Markdown
 
