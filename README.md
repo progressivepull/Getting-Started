@@ -11,6 +11,11 @@ This is our official Progressive Pull web page, and you can click on the link be
 
 <a href="https://progressivepull.github.io/Getting-Started/">Progressive Pull Official Website</a>
 
+# Tutorial
+* [Git](./Git.md)
+* [AI Study Guide](./Study_guide.md)
+* [Installation Guide for Anaconda Environment](./Install_for_Anaconda_Environment.md)
+
 # YouTube PodCasts
 
 **Yes, hello. I operate three web platforms, each supporting a specialized podcast series designed for the forward-thinking audience of tomorrow.**
@@ -91,8 +96,5 @@ intuitive.
 pandoc -t gfm --extract-media . "fan guide.docx" -o main.md
 ```
 
-# Tutorial
-* [Git](./Git.md)
-* [AI Study Guide](./Study_guide.md)
-* [Installation Guide for Anaconda Environment](./Install_for_Anaconda_Environment.md)
+
 
