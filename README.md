@@ -11,10 +11,20 @@ This is our official Progressive Pull web page, and you can click on the link be
 
 <a href="https://progressivepull.github.io/Getting-Started/">Progressive Pull Official Website</a>
 
-# Tutorial
+# References
+## Git
 * [Git](./Git.md)
-* [AI Study Guide](./Study_guide.md)
 * [Installation Guide for Anaconda Environment](./Install_for_Anaconda_Environment.md)
+  
+## AI
+* [AI Study Guide](./Study_guide.md)
+  
+## LossLessCut
+* [LossLessCut playlist - by Best Online Tutorials - YouTube Playlist](https://www.youtube.com/playlist?list=PLOqkUbLQLHMvViUUvMF0RSbEWyY5I_PEg)
+* [LosslessCut Tutorial Series - TutorTube - YouTube Playlist](https://www.youtube.com/playlist?list=PL_dhPga7ruueJ4GWDtBGf67G6S-QWp8wp)
+* [Trim Videos using LosslessCut - Terri Bruin - YouTube](https://www.youtube.com/watch?v=Hd1x5FYdJrA)
+* [The Fastest Way to Cut Clips From Long Videos | LosslessCut - Amanda Littlecott: The Photo Organiser - YouTube](https://www.youtube.com/watch?v=NZfH87YSNAM)
+
 
 # YouTube PodCasts
 
